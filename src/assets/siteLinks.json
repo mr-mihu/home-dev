@@ -1,0 +1,17 @@
+[
+  {
+    "icon": "Blog",
+    "name": "博客",
+    "link": "https://mr-mihu.com/"
+  },
+  {
+    "icon": "Cloud",
+    "name": "网盘",
+    "link": "http://a.aiwan.ink:90/"
+  },
+  {
+    "icon": "CompactDisc",
+    "name": "音乐",
+    "link": "https://music.mr-mihu.com/"
+  }
+]
